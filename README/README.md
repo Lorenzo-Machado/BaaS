@@ -31,7 +31,7 @@ yes... it's exactly what it sounds like.
 
 ```
 
-GET [http://localhost:80085](http://localhost:80085)
+GET [http://localhost:666](http://localhost:666)
 
 ````
 
@@ -54,12 +54,12 @@ congratulations, your system is now dead
 
 ```
 socket(AF_INET, SOCK_STREAM, 0);
-bind(..., 80085);
+bind(..., 666);
 listen(...);
 ```
 
 creates a totally legit enterprise-grade™ TCP server
-listens on port **80085** (very professional number)
+listens on port **666** (very professional number)
 
 ---
 
