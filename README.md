@@ -1,6 +1,6 @@
 
 
-# BaaS – BSOD as a SERVICE
+# BaaS™ – BSOD as a SERVICE™
 ![Linguagem](https://img.shields.io/badge/Language-C-blue)
 ![Plataforma](https://img.shields.io/badge/Platform-Windows-critical)
 ![API](https://img.shields.io/badge/API-Totally%20Real%20Trust%20Me-green)
