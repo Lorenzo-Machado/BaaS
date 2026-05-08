@@ -129,8 +129,8 @@ NOPE.
 * chaos engineering (extreme edition)
 * testing how fast you can reboot
 * ruining your own presentation
-* get a free talk with HR
-* getting fires speedrun any% no cheats 
+* get a free talk with that hot HR lady
+* getting fired speedrun any% no cheats 
 
 ---
 
