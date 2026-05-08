@@ -59,7 +59,7 @@ listen(...);
 ```
 
 creates a totally legit enterprise-grade™ TCP server
-listens on port **666** (very professional number)
+listens on port **666** (highly professional number)
 
 ---
 
@@ -81,7 +81,7 @@ responds with HTTP 500 because we believe in consistency
 Sleep(5000);
 ```
 
-gives you 5 seconds to rethink your life choices
+gives you 5 seconds to rethink your life choices as a biological being
 
 ---
 
@@ -114,10 +114,10 @@ NOPE.
 
 ---
 
-## FEATURES (not bugs bro)
+## FEATURES (not bugs dude)
 
 * real-time system destruction
-* REST API (kind of)
+* REST API (i guess)
 * 100% crash success rate (i only tested once, it crashed once)
 * zero recovery
 * enterprise-ready (please don't)
@@ -151,9 +151,9 @@ THIS WILL ACTUALLY CRASH YOUR SYSTEM, like, fr
 </br></br>
 
 * do NOT run on your main machine (i ran and regret it)
-* do NOT run during work
-* do NOT run if you like your data
-* do NOT run if you fear consequences
+* do NOT run during work 
+* do NOT run if you enjoy your data
+* do NOT run if you fear consequences (like a pussy)
 
 </br>
 
@@ -173,12 +173,13 @@ I AM NOT RESPONSIBLE FOR:
 * Windows Native API (Nt* black magic)
 * Winsock
 * Bad decisions
+* retardation
 
 ---
 
 ## DISCLAIMER
 
 this project is for **educational and experimental purposes only**.
-if you use this in production, that's on you and your questionable life decisions
+if you use this in production, that's on you dude, like, what can i even say?
 
 ---
