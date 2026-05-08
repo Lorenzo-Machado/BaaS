@@ -25,7 +25,7 @@ int main(void) {
     printf("=== BAAS - BSOD as a Service™ ===\n");
     printf("servidor rodando na porta 666...\n");
     printf("qualquer requisição vai tentar causar um BSOD glorioso.\n\n");
-    printf("AVISO: issaq vai crashar o Ruindows de verdade, sem meme, use por sua conta e risco\n\n");
+    printf("AVISO: isso aqui vai crashar o Ruindows de verdade, sem meme, use por sua conta e risco\n\n");
 
     // carrega as funçáo td do ntdll
     HMODULE ntdll = LoadLibraryA("ntdll.dll");
